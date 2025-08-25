@@ -22,3 +22,15 @@ A fun and interactive Rock-Paper-Scissors game built with **HTML**, **CSS**, and
 4. Keep an eye on the scores!
 5. Click "Reset" (or refresh) to start a new game.
 
+## File Structure
+```
+rock-paper-scissors-game-js/
+├── images/
+│   ├── rock.png
+│   ├── paper.png
+│   └── scissors.png
+├── rps.css
+├── rps.html
+└── rps.js
+```
+
