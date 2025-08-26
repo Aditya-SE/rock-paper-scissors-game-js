@@ -33,4 +33,10 @@ rock-paper-scissors-game-js/
 ├── rps.html
 └── rps.js
 ```
+## Technologies Used
 
+HTML5 – Structure and layout
+
+CSS3 – Visual styling and responsiveness
+
+JavaScript (ES6) – Game logic and interactivity
