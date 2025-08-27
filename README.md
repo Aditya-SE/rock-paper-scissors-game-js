@@ -36,7 +36,5 @@ rock-paper-scissors-game-js/
 ## Technologies Used
 
 1. HTML5 – Structure and layout
-
 2. CSS3 – Visual styling and responsiveness
-
 3. JavaScript (ES6) – Game logic and interactivity
